@@ -40,6 +40,7 @@ have any feedback or suggestions for improvement!
 - [Robustness Principle](#robustness-principle)
 - [Inversion of Control](#inversion-of-control)
 
+
 ### Modules, classes, components, entities
 
 - [Maximise Cohesion](#maximise-cohesion)
@@ -52,6 +53,7 @@ have any feedback or suggestions for improvement!
 - [Interface Segregation Principle](#interface-segregation-principle)
 - [Command Query Separation](#command-query-separation)
 - [SOLID](#solid)
+
 
 ### Test
 
